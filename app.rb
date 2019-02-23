@@ -9,4 +9,5 @@ class App < Sinatra::Base
   end
   get '/favorite-song'
     "My favorite song is After The Storm"
+  end
 end
